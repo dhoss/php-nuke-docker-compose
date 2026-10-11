@@ -1,0 +1,8 @@
+PHP-Nuke: Web Portal System
+===========================
+
+To Upgrade from previous PHP-Nuke versions just upload the new file
+From your web browser launch
+
+http://www.yoursite.com /upgrade25-35.php
+
